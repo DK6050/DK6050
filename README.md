@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DK6050
-- 👀 I’m interested in coding with java,c++,c,html,css,.Net,
+- 👀 I’m interested in coding with java,Python,c++,c,html,css,.Net,
 - 🌱 I’m currently pursuing BCA.
 - 📫 How to reach me : deveshkumar10.dk@gmail.com
 
